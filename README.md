@@ -2,7 +2,9 @@
 
 ## Tenemos una tabla con un selector en su apartado superior.
 
-### Cada opción del selector cuenta con un nombre el cual tambien se encuentra en la tabla.
+## Cada opción del selector cuenta con un nombre el cual tambien se encuentra en la tabla.
+
+## En la parte inferior de la tabla tenemos un buscador el cual busca en TODAS LAS COLUMNAS (ya configurado).
 
 Cree una función en lenguaje "JavaScript PURO" y/o CSS en el archivo `script.js` que haga lo siguiente:
 
@@ -10,7 +12,7 @@ Cree una función en lenguaje "JavaScript PURO" y/o CSS en el archivo `script.js
 
 * Al volver a seleccionar el selector 'TODOS', debe volver a mostrar todos los items de la tabla.
 
-* En la parte inferior contamos con un buscador que puede buscar en todas las columnas (ya configurado), este debe de funcionar a la par con el selector sin cancelarce el uno al otro.
+* Y por ultimo pero más importante! (sin esto no pasas la prueba) El buscador debe de funcionar A LA PAR con el selector sin cancelarce el uno al otro.
 
 # Reglas del reto:
 
